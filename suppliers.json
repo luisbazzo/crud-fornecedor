@@ -1,0 +1,25 @@
+{
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "Jonas Brow",
+      "active": true,
+      "category": "Regional",
+      "contact": "jonasbrothers@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Francisco",
+      "active": true,
+      "category": "Nacional",
+      "contact": "franciscobernardes@hotmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Sérgio Almeida",
+      "active": null,
+      "category": "Internacional",
+      "contact": "sergiodcalm@gmail.com"
+    }
+  ]
+}
